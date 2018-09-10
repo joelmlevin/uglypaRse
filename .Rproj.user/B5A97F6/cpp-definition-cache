@@ -1,0 +1,35 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 5,
+                "file" : "/Users/joelmlevin/Box Sync/Projects/Trevor/Hiring Word Break/Production/uglypaRse/src/cppwordbreak_final.cpp",
+                "kind" : 6,
+                "line" : 7,
+                "name" : "dictionaryContainsD(string &, vector<string>)",
+                "parent_name" : "",
+                "usr" : "c:@F@dictionaryContainsD#&$@N@std@N@__1@C@basic_string>#C#$@N@std@N@__1@S@char_traits>#C#$@N@std@N@__1@C@allocator>#C#$@N@std@N@__1@C@vector>#S1_#$@N@std@N@__1@C@allocator>#S1_#"
+            },
+            {
+                "column" : 16,
+                "file" : "/Users/joelmlevin/Box Sync/Projects/Trevor/Hiring Word Break/Production/uglypaRse/src/cppwordbreak_final.cpp",
+                "kind" : 6,
+                "line" : 22,
+                "name" : "wordBreakD(string, vector<string>)",
+                "parent_name" : "",
+                "usr" : "c:@F@wordBreakD#$@N@std@N@__1@C@basic_string>#C#$@N@std@N@__1@S@char_traits>#C#$@N@std@N@__1@C@allocator>#C#$@N@std@N@__1@C@vector>#S0_#$@N@std@N@__1@C@allocator>#S0_#"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/joelmlevin/Box Sync/Projects/Trevor/Hiring Word Break/Production/uglypaRse/src/cppwordbreak_final.cpp",
+                "kind" : 6,
+                "line" : 32,
+                "name" : "wordBreakUtilD(string, int, string, vector<string>, vector<string> &)",
+                "parent_name" : "",
+                "usr" : "c:@F@wordBreakUtilD#$@N@std@N@__1@C@basic_string>#C#$@N@std@N@__1@S@char_traits>#C#$@N@std@N@__1@C@allocator>#C#I#S0_#$@N@std@N@__1@C@vector>#S0_#$@N@std@N@__1@C@allocator>#S0_#&S3_#"
+            }
+        ],
+        "file" : "/Users/joelmlevin/Box Sync/Projects/Trevor/Hiring Word Break/Production/uglypaRse/src/cppwordbreak_final.cpp",
+        "file_last_write" : 1524246015
+    }
+]

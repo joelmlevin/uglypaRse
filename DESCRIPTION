@@ -1,0 +1,11 @@
+Package: uglypaRse
+Type: Package
+Title: uglypaRse: tools for dealing with missing delimiters
+Version: 0.1.1
+Date: 2018-04-20
+Author: Joel Levin, Evan Gilbertson
+Maintainer: Joel Levin <joelmlevin@gmail.com>
+Description:
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.16), tidyverse, stringr (>= 1.30), readr, qdapDictionaries, tm, RWeka, quanteda, NLP, quanteda.corpora, wordcloud, easyPubMed, textclean, XML
+LinkingTo: Rcpp

@@ -1,0 +1,4 @@
+useDynLib(uglypaRse, .registration=TRUE)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp, sourceCpp)
+
